@@ -1,0 +1,15 @@
+body{
+    background-color: red;
+    font-family: Arial;
+    cursor: crosshair;
+}
+h1{color:aqua;} 
+h2{color:aqua;}
+h3{color: aqua;}
+p{color: aqua;}
+h4{color: aqua;}
+h5{color: aqua;}
+h6{color: aqua;}
+li{color: aqua;}
+img{color: white;
+    border: solid;}
